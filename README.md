@@ -3,7 +3,7 @@
 ## About me
 - 🖥 FullStack Web Developer
 - 📚 Learning Php 8.0, mySQL
-- 📫 Contact with me: [Email](mailto:egorich435@gmail.com))
+- 📫 Contact with me: [Email](mailto:egorich435@gmail.com)
 
 ## My skills
 ### Languages
